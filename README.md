@@ -1,2 +1,2 @@
-# Ceph-Doc
+# Ceph-Docs
 Project Ceph for Hyperlogy
